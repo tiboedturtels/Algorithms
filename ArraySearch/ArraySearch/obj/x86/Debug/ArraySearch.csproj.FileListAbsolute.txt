@@ -1,0 +1,5 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\ArraySearch\ArraySearch\bin\Debug\ArraySearch.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\ArraySearch\ArraySearch\bin\Debug\ArraySearch.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\ArraySearch\ArraySearch\obj\x86\Debug\ArraySearch.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\ArraySearch\ArraySearch\obj\x86\Debug\ArraySearch.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\ArraySearch\ArraySearch\obj\x86\Debug\ArraySearch.pdb

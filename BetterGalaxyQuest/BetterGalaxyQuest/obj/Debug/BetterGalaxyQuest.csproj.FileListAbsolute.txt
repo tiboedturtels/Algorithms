@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\bin\Debug\BetterGalaxyQuest.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\bin\Debug\BetterGalaxyQuest.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\bin\Debug\BetterGalaxyQuest.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\obj\Debug\BetterGalaxyQuest.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\obj\Debug\BetterGalaxyQuest.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\BetterGalaxyQuest\BetterGalaxyQuest\obj\Debug\BetterGalaxyQuest.pdb

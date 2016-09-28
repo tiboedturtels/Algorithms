@@ -1,0 +1,4 @@
+C:\Users\zachary\ArraySearch\ArraySearch\bin\Release\ArraySearch.exe
+C:\Users\zachary\ArraySearch\ArraySearch\bin\Release\ArraySearch.pdb
+C:\Users\zachary\ArraySearch\ArraySearch\obj\x86\Release\ArraySearch.exe
+C:\Users\zachary\ArraySearch\ArraySearch\obj\x86\Release\ArraySearch.pdb

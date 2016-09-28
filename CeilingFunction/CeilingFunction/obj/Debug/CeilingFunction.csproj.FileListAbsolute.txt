@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\bin\Debug\CeilingFunction.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\bin\Debug\CeilingFunction.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\bin\Debug\CeilingFunction.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\obj\Debug\CeilingFunction.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\obj\Debug\CeilingFunction.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\CeilingFunction\CeilingFunction\obj\Debug\CeilingFunction.pdb

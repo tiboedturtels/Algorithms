@@ -1,0 +1,2 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuestRe\GalaxyQuestRe\bin\Debug\GalaxyQuestRe.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuestRe\GalaxyQuestRe\obj\Debug\GalaxyQuestRe.csprojResolveAssemblyReference.cache

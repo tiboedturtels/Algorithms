@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\bin\Debug\Select.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\bin\Debug\Select.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\bin\Debug\Select.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\obj\Debug\Select.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\obj\Debug\Select.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Select\Select\obj\Debug\Select.pdb

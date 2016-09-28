@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\bin\Debug\AutoSink.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\bin\Debug\AutoSink.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\bin\Debug\AutoSink.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\obj\Debug\AutoSink.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\obj\Debug\AutoSink.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\AutoSink\AutoSink\obj\Debug\AutoSink.pdb

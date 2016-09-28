@@ -1,0 +1,9 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\New folder\GalaxyQuest\bin\Debug\GalaxyQuest.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\New folder\GalaxyQuest\obj\Debug\GalaxyQuest.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\GalaxyQuest\New folder\GalaxyQuest\obj\Debug\GalaxyQuest.pdb
