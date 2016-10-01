@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\bin\Debug\RumorMill.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\bin\Debug\RumorMill.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\bin\Debug\RumorMill.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\obj\Debug\RumorMill.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\obj\Debug\RumorMill.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\RumorMill\RumorMill\RumorMill\obj\Debug\RumorMill.pdb
