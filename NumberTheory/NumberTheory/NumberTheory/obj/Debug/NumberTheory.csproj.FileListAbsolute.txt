@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\bin\Debug\NumberTheory.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\bin\Debug\NumberTheory.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\bin\Debug\NumberTheory.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\obj\Debug\NumberTheory.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\obj\Debug\NumberTheory.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\NumberTheory\NumberTheory\NumberTheory\obj\Debug\NumberTheory.pdb

@@ -1,0 +1,6 @@
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\bin\Debug\Dijkstra'sKattis.exe.config
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\bin\Debug\Dijkstra'sKattis.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\bin\Debug\Dijkstra'sKattis.pdb
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\obj\Debug\Dijkstra'sKattis.csprojResolveAssemblyReference.cache
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\obj\Debug\Dijkstra'sKattis.exe
+C:\Users\Cam\Desktop\ClassCode\Algorithms\Algorithms\Dijkstra'sKattis\Dijkstra'sKattis\obj\Debug\Dijkstra'sKattis.pdb
