@@ -1,0 +1,6 @@
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\bin\Debug\BankKattis.exe.config
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\bin\Debug\BankKattis.exe
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\bin\Debug\BankKattis.pdb
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\obj\Debug\BankKattis.csprojResolveAssemblyReference.cache
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\obj\Debug\BankKattis.exe
+C:\Users\Tiboed\Desktop\CLass Code\Algorithms\Algorithms\BankKattis\BankKattis\obj\Debug\BankKattis.pdb
